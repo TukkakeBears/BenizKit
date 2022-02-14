@@ -1,0 +1,20 @@
+{
+  "name": "com.tukkake.benizkit",
+  "version": "0.0.1",
+  "displayName": "BenizKit",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.4"
+  },
+  "keywords": [
+    "beniz"
+  ],
+  "author": {
+    "name": "Kamil Puzio",
+    "email": "puziek.kp@gmail.com"
+  },
+  "description": "Dummy description",
+  "hideInEditor": false,
+  "type": "library"
+}
